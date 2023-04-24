@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:9 type="stream" channelId="-1" name="ept1-live" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/slE8U5m.png", ERT1 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_1080/chunks.m3u8
+#EXTINF:49 type="stream" channelId="-1" name="ept2-live" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/o4BUdoL.png", ERT2 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_1080/chunks.m3u8
+#EXTINF:10 type="stream" channelId="-1" name="ept3-live" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/rv4JLBO.png", ERT3 HD
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_1080/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ert-news" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/ujTPC3J.jpg", ERT NEWS
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+#EXTINF:8 type="stream" channelId="-1" name="Vouli" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/ToYaStx.png", VOULI
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:900 type="stream" channelId="-1" name="megatv.com" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/yyp6tS5.png", MEGA HD
+http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:300 type="stream" channelId="5044" name="ant1" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/V1w22Or.png", ANT1 HD
+http://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1.m3u8
+#EXTINF:600 type="stream" channelId="-1" name="skai.gr" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://lh3.googleusercontent.com/-e_qZ-ofZO4k/W6fUqysw5eI/AAAAAAACMzM/DuHVRLu0-Kc1yGifr4S07I7pe6jS-39cQCLcBGAs/h120/skai-new.jpg", SKAI HD
+http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+#EXTINF:100 type="stream" channelId="-1" name="Alpha Greece" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/utv0rWj.png", ALPHA HD
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:700 type="stream" channelId="4696" name="star.gr" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/zGpwulO.png", STAR HD
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+#EXTINF:800 type="stream" channelId="-1" name="open" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/c9hgL1c.jpg", OPEN TV HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:400 type="stream" channelId="-1" name="mtv" group="ΠΑΝΕΛΛΑΔΙΚΑ" logo="https://i.imgur.com/55NSQ50.png", MAKEDONIA TV HD
+http://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8
+#EXTINF:3038 type="stream" channelId="-1" name="KONTRA" group="WEB TV" logo="https://i.imgur.com/6woXJdd.png", KONTRA
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:3068 type="stream" channelId="-1" name="ALERT.gr" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://i.imgur.com/2kVsZlv.png", ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:5006 type="stream" channelId="-1" name="BestTV.gr" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://i.imgur.com/sf4Twdk.png", BEST TV (Πάτρας)
+https://stream.net7.gr/hls/best/index.m3u8
+#EXTINF:5922 type="stream" channelId="-1" name="digea.plp.gr" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://i.imgur.com/EFTH3hP.jpg", GNOMI TV
+https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
+#EXTINF:5044 type="stream" channelId="-1" name="superb" group="WEB TV" logo="https://i.imgur.com/pX9UBuZ.jpg", PRO NEWS
+https://storemusic.top:8222/pronewstv/pronewstv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="217" group="NEWS" logo="https://lh3.googleusercontent.com/-hTR-d9lI6EY/WeeZaMZ7c5I/AAAAAAABsSs/xLXw38sjNGYzZcmQBIriG1dIY1Dl5XCNwCLcBGAs/h120/euronews-logoo.jpg", Euronews
+https://ythls.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/cFJXqKS.png", BCI 24 + Euronews
+https://live.streams.ovh/netmedia/netmedia/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="tv100" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://i.imgur.com/pgh4xoa.png", TV 100
+https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="digea.pella.gr" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://i.imgur.com/MtfTsvf.png", PELLA TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="WEB TV" logo="https://farostv.com/wp-content/uploads/2022/03/FAROS-TV-WEBSITE-LOGO.png", FAROS (Κύπρου)
+https://s1.cystream.net/live/faros1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="krhthtv" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://i.imgur.com/ojwSJ6l.png", KRHTH TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="WEB TV" logo="https://i.imgur.com/yHiFVKK.jpg", ONE live
+https://video-weaver.lhr08.hls.ttvnw.net/v1/playlist/CpoFfV7TGgrSS7ES4Gl2IYnW6VIdlVEjeLrwb7csKJzPXrxAAMkjT5nnt2s3duN3E64ZJNg0gGTcEyYjZut5x5O0N2WQu5OhQ0YZpBhfM7VWl1KjOtt_DSn68oxqtQMA75X79EKc00wNfTyCWI0ee6PWeDU-bOoRUbEcKYSoK7szKM8yKQRByjiYRdxGFhtd7hkzVZUy31oh3Zoaky6Y6Ms5Lh0FK0mUkFfAy_R9eUoTP1e71NB3VpFpJ5HQ8GmvtABUH33TTa_ISVIlQqkhfu9W7LFjBgXaMNI8s10jGYRI0UHFRhezll_9Xli1pp44YfPXxCCOjwZnoIYMi6qxw8FPKfgm8Ghr31-JaYYj4UX5emlf8_TNMPedXbbTjTunjELXgOq3DPvSc5YnvP7yTusOlTYwKCu5uVgZoHXHcCq3PsCsBDl26OW_mJM7yaxnxcSTu4QfFTz_-kI2W-1ufuqHEno2J1OL4YtZXL0saGMi1sB_5d1bi3qqAl3cclARe-0UpdfrUV5Z0T4aSSdu-mv4F1W2kQQ2GOfE-Qkw4PCYekTbIg4KFFK_c95Mud3ARV2r3bF9nyelfMkEB2MApK7K9StS2Q4HOHXrVf07S2ATi3me5Qj3JJFXHCQwtJu72Uf9U7q6eSmKf7sIL6WBawLRiIAnHAsUVbBb45eCOhIE9eHimAa11fzzkvC8hiP2l-T7ZpiWHNC7NtEfilvijJmg0rC79QePJEirJPgM126-I7ebv5CRtJq90kXCiA0ggR1HTlYIj5BNPpSQ0u5fz0RsLXNebBHWSpwBa7x82Ie6lZJOFXyq0Yei2pdpahwFnq4uc3Ino9EoB98r9Ee3wCCWMTdLhNalqN9wTdnZdZAwe0FtAYOr4JTn4pTmGgyEDJR7Eb4wnjtU3vkgASoJZXUtd2VzdC0yMLQG.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://i.imgur.com/Pu8TugK.png", ENA (ΚΑΒΑΛΑ)
+https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ΠΕΡΙΦΕΡΕΙΑΚΑ" logo="https://yt3.googleusercontent.com/ytc/AGIKgqOiwvR4oWGlaRZw4aHfIJf5d9JFomjY-Ub9cb0hNg=s176-c-k-c0x00ffffff-no-rj", Βεργίνα TV
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CqIFOPKJ1vwoqhT96YVjCA6zn3xC0EgmNDLWm1awwLDjj5GxEAele-7UxBjCqaUhAiF2LRlhB2T9B8T4zJEpkLSJwcs0w4WRyOAjeiqodw8R7Beqh9xkczxBNLO9yPFWYn7kp0m547doYbXPTmtWKDCpKyte-ZHkQLT7NVf-FMJ1q19cew_ekISI9Y6npSyWq014SpHZrqZPYoJly5dTYTzAC3OaFPtfs3wv2RxZTYDs0dL9XyITzBICRMT9GuTzRc7INrujkvdWTbt3MSeYAv1ylKO3WbBu_1UREiDIK0E-Ut6VJnihmsKYxU3z28d5nS3vDQf839ERre6mm1PlPHJiTUxfqJ6u9nt4t45zXBcQPWQDaV63m6rcT9frn6yj68hl71L7W9OAjTNunTmH1FfLYpR8C76hdtvXZgdhahqR2q6LIUDnrH8d1OqKBe5vD0ZnNnOkHecLyNwnutLl1LkpXTYRdMwG77-C8KOwdAMno30eDV4jfeQQQh2WRyLgUl2wXO_dkkBgtJ3QfLX9EvFqJhSs6CaBnYEzXwvhT-bI7fS22d4M4wYGIXvMDh-GLzy_IX3rEqxkYI_gMFa3xiJdhR6FRTzqxoBQ0l1YvX5OQ_QtYXKlfZPqQanEXF-JAV3R4SoTqhEnMADN9AyDSBqbcNG4AgCeJC58EHCiI7bZg_dHYB7Ch0ukysXxcBJjSATBg7X18qnrNCVvfAUzFERnKSvmP-cSgOC8wSUWmirL36B7-da6d1-mY2SCyFNOsqn4WQXIX2-Yfl0qHNdeCIRhW5H-nJRXrJn09emTlCnYyZN7NUlbqA74yTBVeQRGIHurSKPMQQHWDfuQE0Jyanpd0qdpq2TvXwEUR5PhcjTnKSbMHp8QcRfmq7WT3t53_uBkwoIaDJ3dSQgiuj1Yl3ezyyABKglldS13ZXN0LTIwtAY.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="WEB TV" logo="https://i.imgur.com/hNvAHzt.jpg", ACTION 24
+https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_480p/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="WEB TV" logo="https://blueskytv.gr/wp-content/uploads/2018/04/BS-Logo-web-544x180.png", BLUE SKY
+https://stream-07.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW97XD_DC3cj3hEfk6n0xKzstuNTXrxvKd8qkRSMju5MP)/dm/3/x7z731p/s/live-2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="WEB TV" logo="https://i.imgur.com/dYI1TUb.png", AΡΤ
+https://live-ol95fwjc.rmbl.ws/slot-49/x1d9-zw46_720p/chunklist_DVR.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="WEB TV" logo="https://www.netvtoronto.com/wp-content/uploads/2021/08/cropped-274803815_677839573532311_6428618494045994667_n.png", ΝΕΤV
+https://live.streams.ovh/NetvToronto/NetvToronto/chunklist_w1161009281.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://i.imgur.com/ObjxuGj.jpg", NETMAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://scontent.fath4-2.fna.fbcdn.net/v/t39.30808-6/270343764_103692022191926_5731804242123357691_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SsRItSQ16rsAX-paavU&_nc_ht=scontent.fath4-2.fna&oh=00_AfAiAT23LIqgnBOQV4RVBCgeAC7tCJ-AQR5Atf1WtvHkww&oe=644A447D", DTV 6 (movies)
+https://channel.streams.ovh:1936/dipolo/dipolo/chunklist_w91643094.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://i.imgur.com/ORnZ4f8.png", CINEMA TIME
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/1JnyzHv.png", FOX live news 
+https://lnc-fox-live-now.tubi.video/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png", OAN 
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/196192
+#EXTINF:0 type="stream" channelId="2883" group="NEWS", CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="1318" group="NEWS" logo="http://s3.i3ns.net/portal/picon/2021-06/1279b30b8e9704c9f7b557d3bd19e8ee.png" size="Small", MSNBC
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/406
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/JZt2qh5.png", NBC NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="http://s3.i3ns.net/portal/picon/2021-06/b228222cff3b406abf7d1019e0704ce1.png", CBS news
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/GjICLWN.png" aspect-ratio="4:3", BBC
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS", France 24 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/A1xzjOI.png", DW english
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png", ABC 6 News 
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://imgur.com/nKAUCLF.jpg", ABC  (L.A.)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:0 type="stream" channelId="527" group="NEWS", CNBC
+https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS" logo="https://i.imgur.com/OuogLHx.png", Bloomberg TV 
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://i.imgur.com/sj5h9bl.png", Paramount Movies
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:0 type="stream" channelId="-1" group="Movies" logo="https://i.imgur.com/cKEwuQc.png", Bloody Disgusting
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
